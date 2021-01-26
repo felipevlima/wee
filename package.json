@@ -1,7 +1,7 @@
 {
-  "name": "tomanocupacero",
+  "name": "wee",
   "version": "0.0.4",
-  "description": "Toma no cu pacero eu to chei de odio",
+  "description": "wee",
   "main": "src/cli.js",
   "scripts": {
     "start": "node src/cli.js"
@@ -11,18 +11,13 @@
     "url": "git+ssh://git@github.com/imdanielpiva/tomanocupacero.git"
   },
   "keywords": [
-    "mc",
-    "poze"
+    "wee"
   ],
-  "author": "Daniel Piva <imdanielpiva@gmail.com>",
+  "author": "Felipe Vieira <felip.3lima@hotmail.com>",
   "license": "MIT",
   "bin": {
     "tomanocupacero": "./src/cli.js"
   },
-  "bugs": {
-    "url": "https://github.com/imdanielpiva/tomanocupacero/issues"
-  },
-  "homepage": "https://github.com/imdanielpiva/tomanocupacero#readme",
   "dependencies": {
     "meow": "^7.0.1"
   }
